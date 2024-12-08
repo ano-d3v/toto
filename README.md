@@ -2,6 +2,8 @@ Build backlinks by using open-source platforms from the list below. Create posts
 #
   1. slideshare.net
 
+    SLIDESHARE.NET
+    
     Uploads PDF File of Non-AMP Version:
       - Title
           Format  : [$brand . 'Results' ]
@@ -19,6 +21,8 @@ Build backlinks by using open-source platforms from the list below. Create posts
 # 
   2. scribd.com
 
+    SCRIBD.COM
+    
     Uploads PDF File of AMP Version:
       - Title
           Format  : ['result' . $brandLowerCase]
