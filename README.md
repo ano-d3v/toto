@@ -1,5 +1,5 @@
 #    How to
-Build backlinks by using open-source platforms from the list below. Create posts on these platforms, pointing to the original content on cuci2.my and the full list of platforms is:
+Build backlinks by using public platforms from the list below. Create posts on these platforms, pointing to the original content on cuci2.my and the full list of platforms is:
 
 1.     slideshare.net
     
