@@ -1,4 +1,5 @@
 Build backlinks by using open-source platforms from the list below. Create posts on these platforms, pointing to the original content on cuci2.my and the full list of platforms is:
+#1
   1. slideshare.net
 
     Uploads PDF File of Non-AMP Version:
@@ -15,6 +16,7 @@ Build backlinks by using open-source platforms from the list below. Create posts
       - In the Tag section, enter: games, sports, entertainment, malaysia, news, web2.0, mobile, results.
 
  >>> Publish
+#2
  2. scribd.com
 
     Uploads PDF File of AMP Version:
